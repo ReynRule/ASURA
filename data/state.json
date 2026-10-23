@@ -1,6 +1,6 @@
 {
  "player": "DP_ASURA",
- "lastWave": 18081926,
+ "lastWave": 18081942,
  "hours": {
   "2026-10-22T13": {
    "count": 96,
@@ -95,8 +95,8 @@
    "gain": 863
   },
   "2026-10-23T12": {
-   "count": 49,
-   "gain": 255
+   "count": 52,
+   "gain": 271
   }
  },
  "season": {
@@ -122,5 +122,5 @@
    "total": 4
   }
  ],
- "updated": 1792725484318
+ "updated": 1792725546318
 }
